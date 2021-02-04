@@ -1,5 +1,5 @@
 # Name Numbers Numerology
-  <p>Name numbers are often referred to by other names such as your life path number.
+  <p>Name numbers are often referred to by other names such as life path number.
   <p>Calculate Your Name Number in Numerology by entering your name in the app, It will give your life path number and shows their benifts. 
   
  # Note: 
