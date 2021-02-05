@@ -16,7 +16,7 @@ settings =
 	splashScreen =
     {
 		enable = true,
-		image = "splashScreen.png"
+		image = "Gg DevOps.png"
     },
 
 	-- Settings for the desktop window; applies to both Win32 and macOS desktop apps
