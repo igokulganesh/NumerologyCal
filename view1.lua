@@ -63,7 +63,7 @@ local function generateHoroscope()
 		sum = 0 
 	end
 
-	content = native.newTextBox( display.safeActualContentWidth*0.5, 400, display.actualContentWidth, display.actualContentHeight*0.4)
+	content = native.newTextBox( display.safeActualContentWidth*0.5, 350, display.actualContentWidth, display.actualContentHeight*0.4)
 	content.size = 14
 	content.isEditable = false
 	--content.hasBackground = false

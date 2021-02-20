@@ -66,7 +66,7 @@ function scene:create( event )
 	nameTable = widget.newTableView(
 	    {
 	        x =  display.safeActualContentWidth*0.5,
-	        y = 250,
+	        y = 240,
 	        height = display.safeActualContentHeight-200,
 	        width = display.safeActualContentWidth-20,
 	        onRowRender = onRowRender,
