@@ -5,3 +5,10 @@
  # Note: 
  <p>Most of this information is from the book:
  <p>SETHURAMAN, GURUSWAMY. MY FORTUNE: THE MYSTIC KEY TO YOUR SUCCESS THROUGH NUMEROLOGY
+   
+  # Sample Screenshot
+
+<p>
+<img height="500" src="https://github.com/igokulganesh/NumerologyCal/blob/main/ScreenShot/home.PNG">
+<img height="500" src="https://github.com/igokulganesh/NumerologyCal/blob/main/ScreenShot/fav.PNG">
+</p>
